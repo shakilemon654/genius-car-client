@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 1,
+        "title": "Electric System",
+        "price": "20",
+        "image": "https://i.ibb.co/VjDQRkq/1.jpg"
+    },
+    {
+        "_id": 2,
+        "title": "Auto Car Repair",
+        "price": "20",
+        "image": "https://i.ibb.co/fQs9t51/2.jpg"
+    },
+    {
+        "_id": 3,
+        "title": "Engine Diagnostics",
+        "price": "20",
+        "image": "https://i.ibb.co/dJvTcwK/3.jpg"
+    },
+    {
+        "_id": 4,
+        "title": "Mechanical System",
+        "price": "20",
+        "image": "https://i.ibb.co/qyV8FDw/4.jpg"
+    },
+    {
+        "_id": 5,
+        "title": "Sensor Repair",
+        "price": "20",
+        "image": "https://i.ibb.co/gRWMdMk/5.jpg"
+    },
+    {
+        "_id": 6,
+        "title": "Hydraulic System",
+        "price": "20",
+        "image": "https://i.ibb.co/SJySwzm/6.jpg"
+    }
+]
